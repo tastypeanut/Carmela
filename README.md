@@ -1,2 +1,2 @@
 # Carmela
-Makes network sniffing easy for all.
+Makes network sniffing easy for all using tools like sslstrip2.
