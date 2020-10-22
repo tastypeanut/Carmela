@@ -4,8 +4,6 @@
 ### Other resources:
 [https://github.com/byt3bl33d3r/MITMf](https://github.com/byt3bl33d3r/MITMf)
 
-***
-
 # Carmela
 Makes network sniffing easy for all using tools like sslstrip2.
 
